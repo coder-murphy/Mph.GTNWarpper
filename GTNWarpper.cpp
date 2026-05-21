@@ -6,7 +6,6 @@
 #include <shared_mutex>
 #include "include/gts.h"
 
-#pragma comment(lib, "GLink500.lib")
 #pragma comment(lib, "gts.lib")
 
 std::shared_mutex mtx;
